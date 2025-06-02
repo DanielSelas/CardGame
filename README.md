@@ -23,33 +23,32 @@ In case of a tie after 10 rounds, the game continues until there is a clear winn
 
 ### 🧭 Welcome Screen
 Portrait  
-![Welcome Portrait](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/1.png)
+<img width="323" alt="1" src="https://github.com/user-attachments/assets/d14fbd31-f7f8-4274-9e99-87ce3906e2c3" />
 
 Landscape – Light & Dark  
-![Welcome Light](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/2.png)
-![Welcome Dark](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/3.png)
+<img width="642" alt="2" src="https://github.com/user-attachments/assets/ae02764f-0136-45e5-b13e-921d2f390917" />
+<img width="636" alt="3" src="https://github.com/user-attachments/assets/f86cd3ad-cdfe-4121-a525-11cf175894c9" />
 
 ---
 
 ### 🃏 Game Screen  
 Light & Dark  
-![Game Light](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/4.png)
-![Game Dark](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/5.png)
+<img width="642" alt="4" src="https://github.com/user-attachments/assets/01e870cb-ecef-48e6-b4ad-5092a34d8ede" />
+<img width="638" alt="5" src="https://github.com/user-attachments/assets/0bafa928-632e-4733-975a-13f50090bad2" />
 
 ---
 
 ### 🏆 Result Screen  
 Victory with confetti 🎉  
-![Result Win](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/6.png)
+<img width="633" alt="6" src="https://github.com/user-attachments/assets/8e94957f-050c-4b2b-ac56-3b02d62bfc67" />
 
 Loss screen 😢  
-![Result Lose](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/7.png)
+<img width="643" alt="7" src="https://github.com/user-attachments/assets/a4ede8b1-d7cd-44ae-bc22-d9fc9877f573" />
 
 ---
 
 ## 🎥 Demo Video
 
-https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/example.mov
 
 ---
 
