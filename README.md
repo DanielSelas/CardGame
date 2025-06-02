@@ -1,75 +1,82 @@
-# 🃏 Card Battle – iOS App
+# Card Game – Daniel Sela
 
-Developed by **Daniel Sela**
-
-A classic card battle game (“War”) reimagined for iOS! In each round, the player and the computer reveal one card—whoever has the higher value earns a point. The game runs for 10 rounds, but if there's a tie, the battle continues until there's a clear winner.
-
----
-
-## 📽 Demo
-
-[▶ Watch the Demo](./example.mov)
+A modern, animated, and sound-enhanced iOS **Card Game** built in Swift using UIKit.  
+The game simulates the classic "War" card game: in each round, both the player and the PC draw a card — the higher card wins the round. First to win more rounds out of 10 is the winner.  
+In case of a tie after 10 rounds, the game continues until there is a clear winner.
 
 ---
 
-## 📱 Features
+## 🎮 Features
 
-- 🎴 52-card deck randomly split between player and computer
-- 📍 Location-based region assignment (East or West)
-- 🔁 Automatically plays rounds every few seconds
-- ⏱ Countdown timer for card reveal
-- ⏸ Pause/resume button that stops or resumes the timer and background music
-- 📊 Score counter per player
-- 🎵 Background music with flip, win, and lose sound effects
-- 🎉 Confetti effect if the player wins
-- 🌓 Light mode & dark mode support
-- ↩️ Result screen with winner & score + return to main menu
+- 🌍 Location-based side assignment (East vs. West) using CoreLocation.
+- 🕹️ 10-round card battle game logic with automatic countdown and round management.
+- 🔁 Automatic card flipping animation every few seconds.
+- 🔊 Background music, flip sound, win and lose effects.
+- 🎉 Confetti animation if you win!
+- 🌓 Supports Dark Mode and adjusts visuals accordingly.
+- 📱 Fully responsive layout for landscape and portrait orientations.
+- 📸 Screenshots and video demonstration included.
 
 ---
 
-## 📚 Technologies & Libraries
+## 📱 Screenshots
 
-- `UIKit` – UI design
-- `CoreLocation` – Detect user longitude
-- `AVFoundation` – Background music and effects
-- `CAEmitterLayer` – Confetti animation
+### 🧭 Welcome Screen
+Portrait  
+![Welcome Portrait](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/1.png)
 
----
-
-## 🖼 Screenshots
-
-### 🔹 Welcome Screen
-
-**Portrait**  
-![Portrait Mode](./1.png)
-
-**Landscape: Day & Night**  
-| Day | Night |
-|-----|-------|
-| ![Welcome Day](./2.png) | ![Welcome Night](./3.png) |
+Landscape – Light & Dark  
+![Welcome Light](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/2.png)
+![Welcome Dark](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/3.png)
 
 ---
 
-### 🔹 Game Screen
-
-| Day | Night |
-|-----|-------|
-| ![Game Day](./4.png) | ![Game Night](./5.png) |
-
----
-
-### 🔹 Result Screen
-
-| Win | Lose |
-|-----|------|
-| ![Victory](./6.png) | ![Defeat](./7.png) |
+### 🃏 Game Screen  
+Light & Dark  
+![Game Light](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/4.png)
+![Game Dark](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/5.png)
 
 ---
 
-## 🖼 Assets
+### 🏆 Result Screen  
+Victory with confetti 🎉  
+![Result Win](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/6.png)
 
-All sound and image assets were sourced from publicly available, royalty-free platforms and are not original creations.
+Loss screen 😢  
+![Result Lose](https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/7.png)
 
 ---
 
-## 🙌 Thanks for checking it out!
+## 🎥 Demo Video
+
+https://raw.githubusercontent.com/DanielSelas/CardGame/main/Assets/example.mov
+
+---
+
+## 🧱 Built With
+
+- `UIKit` – Interface and interaction logic.
+- `CoreLocation` – To determine east or west side for the player.
+- `AVFoundation` – For playing background music and sound effects.
+- `CAEmitterLayer` – Used to implement confetti fireworks animation on victory.
+
+---
+
+## 📦 Assets Attribution
+
+All sounds and images used in this app were sourced from publicly available free asset websites (e.g., freesound.org, flaticon.com) and are not self-created.  
+They are used for academic and non-commercial purposes only.
+
+---
+
+## 👤 Author
+
+**Daniel Sela**
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DanielSelas/CardGame.git
