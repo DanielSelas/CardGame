@@ -47,11 +47,6 @@ Loss screen 😢
 
 ---
 
-## 🎥 Demo Video
-
-
----
-
 ## 🧱 Built With
 
 - `UIKit` – Interface and interaction logic.
