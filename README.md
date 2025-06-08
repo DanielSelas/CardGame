@@ -4,6 +4,8 @@ A modern, animated, and sound-enhanced iOS **Card Game** built in Swift using UI
 The game simulates the classic "War" card game: in each round, both the player and the PC draw a card — the higher card wins the round. First to win more rounds out of 10 is the winner.  
 In case of a tie after 10 rounds, the game continues until there is a clear winner.
 
+https://github.com/user-attachments/assets/24c1069a-cd30-4e6a-8147-a10605a0e7ff
+
 ---
 
 ## 🎮 Features
